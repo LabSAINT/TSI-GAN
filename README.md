@@ -1,4 +1,4 @@
-**Source code and evaluation scripts of our [PAKDD 2023 paper](URL to paper):**
+**Source code and evaluation scripts of our [PAKDD 2023 paper](https://arxiv.org/abs/2303.12952.pdf), to be uploaded soon. **
 
 ## TSI-GAN: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks
 
@@ -9,6 +9,14 @@ Anomaly detection is widely used in network intrusion detection, autonomous driv
 ### Citation
 
 ```
+@conference{pakdd23tsigan,
+author = {Shyam S. Saravanan and Tie Luo and Mao Van Ngo},
+title = {{TSI-GAN}: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks},
+booktitle = {27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
+month = may,
+year  = {2023},
+}
+
 ```
 
 <!---
