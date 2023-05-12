@@ -1,5 +1,3 @@
-**Source code and evaluation scripts of our [PAKDD 2023 paper](https://arxiv.org/abs/2303.12952) will be uploaded after an extended version of this paper is ready**
-
 ## TSI-GAN: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks
 
 ### Abstract
@@ -22,3 +20,5 @@ year  = {2023},
 <!---
 <embed src="" type="application/pdf">
 -->
+
+**Source code and evaluation scripts of our [PAKDD 2023 paper](https://arxiv.org/abs/2303.12952) will be uploaded after an extended version of this paper is ready.**
