@@ -1,5 +1,4 @@
-
-## This repository is no longer maintained. It has been relocated to https://github.com/TrustAIoT/TSI-GAN, where active updates and maintenance will continue.
+### ![red](https://via.placeholder.com/15/f03c15/000000?text=+) This repository is no longer maintained. It has been relocated to <a href="https://github.com/TrustAIoT/TSI-GAN">TSI-GAN</a>, where active updates and maintenance will continue.
 
 ## TSI-GAN: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks
 
